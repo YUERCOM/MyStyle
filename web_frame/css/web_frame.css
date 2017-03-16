@@ -45,3 +45,39 @@ html, body{
 	line-height: 30px;
 	color:#FFFFFF;
 }
+.first_menu{
+	width:90%;
+	height:40px;
+	line-height: 40px;
+	padding-left:10%;
+	cursor:pointer;
+	float:left;
+	color:#FFFFFF;
+	background:#394D6B;
+}
+.first_menu:hover{
+	background: #171D25;
+	border-left: 2px solid #39E3C7;
+	width: 88%;
+}
+.hasChild{}
+
+.childDiv{
+	display: none;
+	width: 100%;
+}
+.second_menu{
+	width: 75%;
+	height:30px;
+	line-height: 30px;
+	padding-left: 25%;
+	cursor:pointer;
+	float:left;
+	color:#FFFFFF;
+	background: #4B5F7D;
+}
+.second_menu:hover{
+	background: #171D25;
+	border-left: 2px solid #39E3C7;
+	width: 73%;
+}
