@@ -1,0 +1,25 @@
+.div_left1{
+	width:18%;
+	height:100%;
+	border:1px solid #00A8FF;
+	float:left;
+	margin-left:1%;
+	margin-top:10px;
+	border-radius:10px;
+}
+.div_left2{
+	width:18%;
+	height:100%;
+	border:1px solid #00A8FF;
+	float:left;
+	margin-left:1.85%;
+	margin-top:10px;
+	border-radius:10px;
+}
+.div_top{
+	width:100%;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	border-bottom:1px solid #00A8FF;
+}
