@@ -12,19 +12,19 @@ html, body{
 	background:#45C8DC;
 }
 #body_left{
-	width:15%;
+	width:13%;
 	height:90%;
 	float:left;
 	background:#394D6B;
 }
 #body_right{
-	width:85%;
+	width:87%;
 	height:85%;
 	float:left;
-	background:#F4F7FE;
+	background:#E3E6EC;
 }
 #body_bottom{
-	width:85%;
+	width:87%;
 	height:30px;
 	float:left;
 	font-size: 12px;
@@ -80,4 +80,7 @@ html, body{
 	background: #171D25;
 	border-left: 2px solid #39E3C7;
 	width: 73%;
+}
+.select_menu{
+	background: #171D25;
 }

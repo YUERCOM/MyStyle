@@ -22,6 +22,8 @@ $(function(){
 	});
 
 	$(".true_menu").click(function(){
+		$(".true_menu").removeClass("select_menu");
+		$(this).addClass("select_menu");
 		$("#body_iframe").attr("src",$(this).attr("frame_url"));
 	});
 
