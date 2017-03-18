@@ -15,11 +15,7 @@
 	background-color: #272822;
 }
 .body_left_scrollbar{
-	overflow-y: scroll;
 	border-top:none;
-}
-
-.body_left_scrollbar{
 	margin:0 auto;
 	width:10%;
 	height:90%;
